@@ -1,6 +1,8 @@
 # Installation-Python
 
-# Python is a dynamic, strongly typed, object oriented, multipurpose programming language, designed to be quick (to learn, to use, and to understand), and to enforce a clean and uniform syntax
+Python is a dynamic, strongly typed, object oriented, multipurpose programming language, designed to be quick (to learn, to use, and to understand), and to enforce a clean and uniform syntax
+
+Why we have to use python https://www.python.org/about/apps/
 
 Installation of Python 3 on windows
 
